@@ -1,0 +1,5 @@
+# app-ads.txt for Snake Trap (AdMob publisher pub-3664080871861545).
+# Must be served at the ROOT of the developer website listed on Google Play,
+# e.g. https://<your-site>/app-ads.txt. In AdMob → Apps → app-ads.txt you can copy the exact
+# line; it should match the one below. Remove these comment lines if you like.
+google.com, pub-3664080871861545, DIRECT, f08c47fec0942fa0
